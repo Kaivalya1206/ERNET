@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#last1{
+margin-bottom: 20px;
+font-family: Georgia;
+font-size: medium;
+}
+a:hover {
+    background-color: rgb(96, 202, 255);
+    border-radius: 10px;
+  }
+  
+li{
+    font-size: large;
+    margin-left: 7px;
+}
+.maker{
+    height: 60;
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 80px;
+    padding-left: 100px;
+}
+body{
+    overflow-x: hidden;
+  }
+#img1{
+    height: 10vh;
+    width: 24vh;
+    border-right: 5px solid gainsboro;
+}
+.Top{
+    margin-top: 25px;
+    height: 100px;
+    background: linear-gradient(rgba());
+}
+#content{
+    height: 400px;
+}
+#ImgSlider{
+    height: 100px;
+    box-shadow: 0 10px 20px -6px #000;
+}
+#Last{
+    height: 450px;
+    background-color: rgb(44, 45, 46);
+}
+.Name{
+  padding: 2px 3px 2px 3px;
+} 
